@@ -1,0 +1,22 @@
+{
+    "user1": {
+        "username": "TT",
+        "score": 20
+    },
+    "user2": {
+        "username": "not_a_bot",
+        "score": 10
+    },
+    "user3": {
+        "username": "bob",
+        "score": 1000
+    },
+    "user4": {
+        "username": "test",
+        "score": 3
+    },
+    "user5": {
+        "username": "bot_user",
+        "score": 40
+    }
+}
